@@ -10,4 +10,9 @@ This seems to indicate to me that an open source JavaScript (because the web) sp
 
 ---
 
-just saw this: https://www.facebook.com/events/1983316915270556/
+just saw this meet-up notice: https://www.facebook.com/events/1983316915270556/
+
+---
+
+- on how to take speech output and use it for audio input: https://stackoverflow.com/a/45003549/8157867
+- web audio vocoder: https://github.com/cwilso/Vocoder
